@@ -1,3 +1,8 @@
+## PSL
+PSL is Pleged Supplementary Lending
+
+
+
 # A week of US inflation, China RRR cut & French Election
 
 ## US Soaring Inflation & Subsequent Hawkish Fed
@@ -44,12 +49,27 @@ A great looback with worrisome outlook due to lockdown risk:
 Policy:
 - Favorable policy on LGSB (To be added by Warren)
 - Apr 16: Grant of Game licence
-- Apr 18: [25 bps RRR cut](https://finance.caixin.com/2022-04-18/101871740.html)
+- Apr 18: [25 bps RRR cut](https://finance.caixin.com/2022-04-18/101871740.html)  
+  - * There's a chance that the negative impact thanks to lockdown is not reflected in the first quarter * (YWT)
+  - * Gloomy Retail growth / UE in March *
 
 ---
 
 Comments:
 Can we expect more supportive monetary policy given a combination of "Firm Zero-Covid policy + Commitment to Economy growth" in China?
 
+Warren:  
+- High Capital Outflow Pressure
+- Inverted US-China 10-year bond yield  
+- Inflation pressure thanks to imported cost (High PPI & High (PPI-CPI))  
+=> The chance for more liquidity injection is slim
+
+Question for thoughts:
+- Okay, we know there is a high pressure for retails. So what policy/retail reaction would come out?
+- Two downside risks: (i) If there is less demand, the injected liquidity would be uneffective in boosting the economy because debt issuing banks have not only economic, but also political concern for bad debt. (ii) The 10-year yield is linked to national economy, hence we can forecast a further decline of the yield if the economy prospect is not promising.
+
 ## French Election
 LePon victory can reverse EU cooperation
+
+## Term notes
+PSL - Pledged Supplementary Loans
