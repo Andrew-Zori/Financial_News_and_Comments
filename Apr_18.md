@@ -42,6 +42,7 @@ A great looback with worrisome outlook due to lockdown risk:
 ---
 
 Policy:
+- Favorable policy on LGSB (To be added by Warren)
 - Apr 16: Grant of Game licence
 - Apr 18: [25 bps RRR cut](https://finance.caixin.com/2022-04-18/101871740.html)
 
